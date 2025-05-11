@@ -1,0 +1,11 @@
+flask
+flask-cors
+torch
+torchvision
+pillow
+opencv-python
+mediapipe
+numpy
+pandas
+requests
+matplotlib

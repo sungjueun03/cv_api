@@ -1,0 +1,14 @@
+# 가상환경
+venv/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 환경변수
+.env
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
